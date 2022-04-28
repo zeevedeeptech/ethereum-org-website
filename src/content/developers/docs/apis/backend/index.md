@@ -68,6 +68,11 @@ These libraries abstract away much of the complexity of interacting directly wit
 - [Documentation](https://www.quicknode.com/docs)
 - [Discord](https://discord.gg/NaR7TtpvJq)
 
+**Zeeve -** **_Shared and dedicated Ethereum nodes as a service._**
+
+- [zeeve.io](https://zeeve.io)
+- [Documentation]https://zeeve.readthedocs.io/en/latest/)
+
 **Python Tooling -** **_Variety of libraries for Ethereum interaction via Python._**
 
 - [py.ethereum.org](http://python.ethereum.org/)
