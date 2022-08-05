@@ -219,6 +219,15 @@ Here is a list of some of the most popular Ethereum node providers, feel free to
     - Dashboard
     - Pay-per-hour pricing
     - Direct support
+
+- [**Zeeve**](https://www.zeeve.io/)
+ - [Docs](https://zeeve.readthedocs.io/en/latest/)
+    - Benefits
+    - Dashboard
+    - Per node basis
+    - Analytics
+
+
 - [**Watchdata**](https://watchdata.io/)
   - [Docs](https://docs.watchdata.io/)
   - Features
